@@ -902,7 +902,7 @@
      `(whitespace-tab                                   ((t (:background ,color-9))))
      `(whitespace-newline                               ((t (:foreground ,color-5))))
      `(whitespace-trailing                              ((t (:background ,color-7))))
-     `(whitespace-line                                  ((t (:background ,color-3 :foreground ,color-11))))
+     `(whitespace-line                                  ((t (:background ,color-3 :foreground ,color-13))))
      `(whitespace-space-before-tab                      ((t (:background ,color-11 :foreground ,color-11))))
      `(whitespace-indentation                           ((t (:background ,color-11 :foreground ,color-7))))
      `(whitespace-empty                                 ((t (:background ,color-11))))
