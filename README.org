@@ -1,0 +1,1 @@
+HYing's EMACS grayscale color theme for eink monitor
